@@ -1,2 +1,2 @@
 # blog
-My blog created by [hugo](https://gohugo.io/)
+My blog created using [hugo](https://gohugo.io/)
